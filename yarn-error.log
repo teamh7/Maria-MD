@@ -13,7 +13,7 @@ Node version:
 Platform: 
   android arm64
 
-Trace: 
+Trace: url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
   Error [ERR_SOCKET_CONNECTION_TIMEOUT]: Socket connection timeout
       at new NodeError (node:internal/errors:399:5)
       at internalConnectMultiple (node:net:1099:20)
