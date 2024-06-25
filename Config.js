@@ -102,17 +102,6 @@ G96	G96							* myContacts	Mobile	+91 82851 89085
 G97	G97							* myContacts	Mobile	+91 82840 02970
 G98	G98							* myContacts	Mobile	+91 82795 79659
 G99	G99							* myContacts	Mobile	+91 82737 97185
-Gamer 1	Gamer 1							* myContacts	Mobile	79008 01316
-Gamer 2	Gamer 2							* myContacts	Mobile	84372 72071
-Gamer 3	Gamer 3							* myContacts	Mobile	84374 78879
-Gamer 4	Gamer 4							* myContacts	Mobile	84472 93847
-Gamer 5	Gamer 5							* myContacts	Mobile	84610 58011
-Gamer 6	Gamer 6							* myContacts	Mobile	85589 26763
-Gamer 7	Gamer 7							* myContacts	Mobile	85590 50918
-Gamer 8	Gamer 8							* myContacts	Mobile	85710 27329
-Gamer 9	Gamer 9							* myContacts	Mobile	85868 52634
-Sanjay	Sanjay 							* myContacts	Mobile	+91 80594 11634
-Sitaram Bhai	Sitaram Bhai 							* myContacts	Mobile	+91 89509 00561 ::: 89509 00561
 V161	V161							* myContacts	Mobile	+91 83094 96388
 V177	V177							* myContacts	Mobile	+91 82754 04586
 V228	V228							* myContacts	Mobile	+91 79746 61120
